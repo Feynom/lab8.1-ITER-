@@ -15,7 +15,6 @@ int main()
 	SetConsoleOutputCP(1251);
 
 	char str[201];
-	char second[250];
 
 	cout << "Введіть строку: ";
 	cin.getline(str, 200); cout << endl;
